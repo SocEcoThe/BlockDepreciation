@@ -1,0 +1,7 @@
+name: BlockDepreciation
+main: org.cockshott.BlockDepreciationPlugin
+version: 1.0
+author: EnriqueMark
+description: 这是一个让已放置方块折旧的插件
+depend: [MultiCurrency]
+
